@@ -14,3 +14,18 @@ redirect_from:
 🔬 I'm pursuing the role of a Solution Architect (SA) and an IT Mentor for students!
 
 📚 I'm incredibly delighted to acquire valuable knowledge and explore the world.
+
+
+# WORK EXPERIENCE & EDUCATION
+ 
+## 🏢 RIKKEISOFT 
+**Position**: : Software engineer
+
+## 🏢 AMELA TECHNOLOGY
+**Position**: : Software engineer
+
+## 🏢 LUVINA SOFTWARE
+**Position**: : Developer
+
+## 🎓UNIVERSITY OF ENGINEERING AND TECHNOLOGY (UET – VNU)
+**Major**: : Information Technology
