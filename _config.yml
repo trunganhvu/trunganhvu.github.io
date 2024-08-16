@@ -21,13 +21,13 @@ repository               : "trunganhvu/trunganhvu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Trung Anh Vu (Trump)"
   pronouns         : # example: "she/her"  
   bio              : "Independence – Freedom – Happiness"
   location         : "Vietnam"
   employer         : "University of Engineering and Technology"
-  uri              : # URL
+  uri              : "https://trunganhvu.github.io/"
   email            : "vutrunganh.workit@gmail.com" 
 
   # Academic websites

@@ -13,4 +13,4 @@ redirect_from:
 
 🔬 I'm pursuing the role of a Solution Architect (SA) and an IT Mentor for students!
 
-📚 I am incredibly delighted to acquire valuable knowledge and explore the world.
+📚 I'm incredibly delighted to acquire valuable knowledge and explore the world.
