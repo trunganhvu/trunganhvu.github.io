@@ -19,13 +19,13 @@ redirect_from:
 # WORK EXPERIENCE & EDUCATION
  
 ## 🏢 RIKKEISOFT 
-**Position**: : Software engineer
+**Position**: Software engineer (Rikkeisoft Headquarter + SDS onsite)
 
 ## 🏢 AMELA TECHNOLOGY
-**Position**: : Software engineer
+**Position**: Software engineer
 
 ## 🏢 LUVINA SOFTWARE
-**Position**: : Developer
+**Position**: Developer
 
 ## 🎓UNIVERSITY OF ENGINEERING AND TECHNOLOGY (UET – VNU)
 **Major**: : Information Technology
