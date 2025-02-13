@@ -21,7 +21,7 @@ repository               : "trunganhvu/trunganhvu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "IMG_6367.jpg" #"avatar.jpg"
   name             : "Trung Anh Vu (Trump)"
   pronouns         : # example: "she/her"  
   bio              : "Independence – Freedom – Happiness"
