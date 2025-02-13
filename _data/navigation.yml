@@ -22,6 +22,9 @@ main:
     
   - title: "Resume"
     url: /files/VuTrungAnh_Fullstack_Resume.pdf
+
+  - title: "List 100"
+    url: /list-100.md
     
   # - title: "Guide"
   #   url: /markdown/
