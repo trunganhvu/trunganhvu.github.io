@@ -4,7 +4,7 @@ permalink: /list-100/
 title: "List 100"
 author_profile: true
 redirect_from:
-  - /list-100.html
+  - /list-100.md
   - /list-100/
 ---
 
