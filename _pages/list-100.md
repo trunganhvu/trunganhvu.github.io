@@ -3,8 +3,6 @@ layout: archive
 permalink: /list-100/
 title: "List 100"
 author_profile: true
-redirect_from:
-  - /list-100/
 ---
 
 Things i want to do before i die. Modified as of Feb 13. 2025:
