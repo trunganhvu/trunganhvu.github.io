@@ -9,8 +9,8 @@ Things i want to do before i die. Modified as of Feb 13. 2025:
 1. Always be happy
 2. Read 1000 books
 3. Therapy for 100 people
-4. Career Guidance for 200 students
-5. Donate 100 books (3/100)
+4. Career Guidance for 200 students (3/200)
+5. Donate 100 books (5/100)
 6. Make a AI personal assistant
 7. Have 100 foreign friends
 8. Become a ultra marathon
