@@ -54,7 +54,7 @@ Things i want to do before i die. Modified as of Feb 13. 2025:
 46. Deeply research a great historical figure
 47. Cook many traditional feasts
 48. Learn about face reading, astrology, and the I Ching
-49. 
+49. Exploring the floating season in the Mekong Delta
 
 <!-- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
